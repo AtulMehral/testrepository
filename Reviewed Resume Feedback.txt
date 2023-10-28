@@ -1,4 +1,4 @@
-Novoresume--Take proper Format
+Novo Resume--Take proper Format
 Font Size-- increase it;
 
 Skill-->Add more skills: JAVA, SPRING BOOT, RESTFUL API, MICROSERVICES, SQL, DSA, LLD, HLD
