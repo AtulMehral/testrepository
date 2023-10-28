@@ -1,0 +1,13 @@
+Novoresume--Take proper Format
+Font Size-- increase it;
+
+Skill-->Add more skills: JAVA, SPRING BOOT, RESTFUL API, MICROSERVICES, SQL, DSA, LLD, HLD
+
+Experince:
+-mention rest API's/technical details which you worked on;
+-description of product with Saas(Software as a service);
+-mention about Unit test/funcational test/TDD;
+
+--Always write down the intro/challenging work on paper to have more clarity;
+
+
